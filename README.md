@@ -51,7 +51,17 @@ Evaluar las tiendas de la cadena Alura Store y asesorar al Sr. Juan en la toma d
 
 ## 📊 Gráficos obtenidos
 
+<p align="center"><img src="https://github.com/user-attachments/assets/352e8847-0418-44a6-a641-168cd71dd118" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/aa3ba38d-ed42-40fb-aacb-dcd4222fc898" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/6b22f1f3-f9cd-4bac-a5ab-f682e914b947" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/97f39397-dd87-4eda-8904-b7cad8e553ed" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/dfbc8bf5-dcd6-4262-a734-138da4dc846d" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/9462e6c5-3bd4-41ca-9c93-9112aea2f9ef" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/8c3436d8-7e6b-46d8-9223-ffb07e6e87d7" /></p>
 
+## 📌 Recomendación final
+
+Tras el análisis, se recomienda vender la **Tienda 4**, por ser la menos eficiente en términos de ingresos, rendimiento por categoría y productos top.
 
 ## ⚠️ Posibles problemas y soluciones
 
